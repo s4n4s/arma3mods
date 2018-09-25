@@ -1,0 +1,11 @@
+html
+{
+    height: 100%;
+    padding-top: 120px;
+    background: url('../img/global/background.jpg') no-repeat;
+}
+
+@font-face {
+    font-family: "Rockwell";
+    src: url("../font/rockwell/ROCK.TTF") format("ttf")
+}
