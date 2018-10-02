@@ -1,4 +1,14 @@
-.home
+.slide
 {
-    height: 750px;
+    height: 75%;
 }
+
+.slid img
+{
+    height: 75%;
+}
+.carousel-inner
+{
+    height: 100%;
+}
+

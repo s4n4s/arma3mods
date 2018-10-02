@@ -1,14 +1,11 @@
 .navBar
 {
-    position: absolute;
-    top: 0;
-    background:  rgba(0, 0, 0, 0);
+
 }
 
 .navBar ul
 {
     width: 50%;
-    height: 120px;
     margin: auto;
 }
 .navBar li

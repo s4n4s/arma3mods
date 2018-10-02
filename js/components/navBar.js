@@ -1,4 +1,4 @@
-const nav = `<nav class="navBar fixed-top">
+const nav = `<nav class="navBar">
     <ul>
         <li>Accueil</li>
         <li>Magasin</li>

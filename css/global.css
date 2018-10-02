@@ -1,8 +1,25 @@
-html
+html, body
 {
     height: 100%;
-    padding-top: 120px;
-    background: url('../img/global/background.jpg') no-repeat;
+    background:  linear-gradient(#e66465, #9198e5);
+}
+
+#app
+{
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background: url('../img/global/background.jpg');
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 @font-face {
